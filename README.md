@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elbedie
-- 🌱 I’m currently learning C#, JavaScript, Python
-- 😄 Pronouns: He/Him
+<h1> - 👋 Hi, I’m @elbedie </h1>
+<h1> - 🌱 I’m currently learning C#, JavaScript, Python </h1>
+<h1> - 😄 Pronouns: He/Him </h1>
 
 
 <!---
