@@ -23,8 +23,7 @@ Feel free to explore my repositories to see what I'm working on, and don't hesit
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/diego) (Replace with your actual LinkedIn URL) 🌟
-- [Twitter](https://twitter.com/diego) (Replace with your actual Twitter URL) 🐦
+- [LinkedIn]([https://www.linkedin.com/in/diego](https://www.linkedin.com/in/diego-david-600608199/)) (Replace with your actual LinkedIn URL) 🌟
 
 Thank you for visiting my profile! 🙌
 
