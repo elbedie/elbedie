@@ -4,10 +4,11 @@ Welcome to my GitHub profile! 🌟
 
 ## About Me
 
-I'm Diego, a 22-year-old student at **Cesar School** studying **Systems Analysis and Development**. 🚀 I'm diving into the world of programming and currently learning:
+I'm Diego, a 22-year-old student at **Cesar School** studying **Systems Analysis and Development**. 🚀 
+I'm diving into the world of programming and currently learning:
 
 - **C#** 🧑‍💻: Mastering object-oriented programming and software development.
-- **Python** 🐍: Exploring data analysis, scripting, and automation.
+- **Python** 🐍: Just starting out and exploring the basics of data analysis, scripting, and automation.
 - **JavaScript** 🌐: Crafting interactive web applications and enhancing web development skills.
 - **HTML & CSS** 🎨: Designing and styling beautiful, responsive web pages.
 
