@@ -24,7 +24,7 @@ Feel free to explore my repositories to see what I'm working on, and don't hesit
 
 ## Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/diego](https://www.linkedin.com/in/diego-david-600608199/))🌟
+- [LinkedIn](https://www.linkedin.com/in/diego-david-600608199/) 🌟
 
 Thank you for visiting my profile! 🙌
 
