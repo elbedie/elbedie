@@ -22,10 +22,6 @@ Aside from coding, I enjoy **reading** 📚 and **writing** ✍️. I'm an enthu
 
 Feel free to explore my repositories to see what I'm working on, and don't hesitate to reach out if you have any questions or just want to chat about tech! 💬
 
-## My GitHub Stats
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elbedie&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## Let's Connect
 
 - [LinkedIn]([https://www.linkedin.com/in/diego](https://www.linkedin.com/in/diego-david-600608199/))🌟
