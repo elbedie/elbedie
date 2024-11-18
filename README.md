@@ -29,6 +29,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![AngularJS](https://img.shields.io/badge/AngularJS-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23000000.svg?style=for-the-badge&logo=aspdotnet&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 ---
 
@@ -60,18 +64,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDavid&theme=dark&hide_border=true"/>
 </p>
-
----
-
-### 🎖 &nbsp;My Badges 
-
-[![An image of @diegodavid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diegodavid)](https://holopin.io/@diegodavid)
-
----
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@diegodavid123)
 
 ---
 
