@@ -1,4 +1,4 @@
-![Diego's Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+![Diego's Banner](https://i.imgur.com/cPQF0tm.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Diego</h2>
 
@@ -8,15 +8,15 @@
 📚 &nbsp;Aside from coding, I enjoy **reading** and **writing** ✍️. I'm an enthusiastic beginner in the programming world and eager to learn and grow!  
 💬 &nbsp;Feel free to reach out if you have any questions or just want to chat about tech.  
 
+
 ## 🛠 &nbsp;What I'm Working On
 
 - Building personal projects to apply my knowledge and develop practical skills. 🛠️  
 - Discovering new technologies and tools to stay updated in the tech world. 💡  
-- Contributing to open-source projects to gain experience and collaborate with others. 🤝  
-
----
+- Contributing to open-source projects to gain experience and collaborate with others. 🤝
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,14 +30,10 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23000000.svg?style=for-the-badge&logo=aspdotnet&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
----
-
 ### 🗃 &nbsp;Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
----
 
 ### 🧰 &nbsp;Version Control & Tools
 
@@ -49,8 +45,6 @@
 ![Trello](https://img.shields.io/badge/trello-%230047B3.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
----
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -61,8 +55,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elbedie&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
----
 
 ### 🤝🏻 &nbsp;Connect with Me
 
