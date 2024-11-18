@@ -16,6 +16,8 @@
 
 ---
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
