@@ -60,17 +60,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDavid&theme=dark&hide_border=true"/>
-</p>
-
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-david-600608199/"><img src="https://img.shields.io/badge/-Diego%20David%20-%230077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/elbedie"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:diego.ddvid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
 
 ---
 
