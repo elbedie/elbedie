@@ -5,12 +5,6 @@
 ### 👨‍💻 &nbsp;About Me
 
 🚀 &nbsp;I'm Diego, a 22-year-old student at **Cesar School** studying **Systems Analysis and Development**.  
-🧑‍💻 &nbsp;I'm diving into the world of programming and currently learning:  
-- **C#** 🧑‍💻: Mastering object-oriented programming and software development.  
-- **Python** 🐍: Just starting out and exploring the basics of data analysis, scripting, and automation.  
-- **JavaScript** 🌐: Crafting interactive web applications and enhancing web development skills.  
-- **HTML & CSS** 🎨: Designing and styling beautiful, responsive web pages.  
-
 📚 &nbsp;Aside from coding, I enjoy **reading** and **writing** ✍️. I'm an enthusiastic beginner in the programming world and eager to learn and grow!  
 💬 &nbsp;Feel free to reach out if you have any questions or just want to chat about tech.  
 
@@ -40,10 +34,6 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/trello-%230047B3.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ---
 
@@ -52,6 +42,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/trello-%230047B3.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ---
 
