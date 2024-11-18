@@ -39,6 +39,11 @@
 ### 🗃 &nbsp;Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/trello-%230047B3.svg?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 ---
 
@@ -53,11 +58,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/DiegoDavid">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoDavid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/elbedie">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elbedie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/DiegoDavid">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoDavid&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/elbedie">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elbedie&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
