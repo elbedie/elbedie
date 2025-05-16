@@ -14,7 +14,7 @@
 
 - 🚀 **23 anos**, estudante de **Análise e Desenvolvimento de Sistemas** na <b>Cesar School</b>.
 - 📚 Curto muito <b>ler</b> e <b>escrever</b> ✍️ fora do código.
-- 🌱 Entusiasta em tech, iniciante animado e aprendendo todos os dias!
+- 🌱 Entusiasta em tech, animado e aprendendo todos os dias!
 - 💬 **Vamos trocar ideia sobre tecnologia?** Fique à vontade para chamar!
 
 ---
@@ -26,7 +26,7 @@
 - 🛠️ Projetos pessoais para aplicar meu conhecimento.
 - 💡 Explorando tecnologias e ferramentas novas.
 - 🤝 Contribuindo para projetos open-source e colaborando com outros devs.
-
+- 💼 Atualmente trabalho como Desenvolvedor de Software Junior na Even3. 
 ---
 
 ### 🛠️ &nbsp;Tech Stack
