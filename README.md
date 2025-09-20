@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/zBegWLD.png" alt="Diego's Banner"/>
-</p>
-
-<p align="left">
-  <img src="./assets/Hand%20Wave.gif" width="40"/>
-</p>
 
 <h2 align="left">Hey there! I'm Diego 👋</h2>
 
