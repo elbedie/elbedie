@@ -4,6 +4,8 @@ Desenvolvedor de Software na [Even3](https://www.even3.com.br) · Estudante de A
 
 Trabalho com aplicações web em produção — entregando funcionalidades, resolvendo bugs e mantendo as coisas funcionando.
 
+Acesse meu portfólio aqui: https://bedie-dev.vercel.app
+
 ---
 
 ### Stack
