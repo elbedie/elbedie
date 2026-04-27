@@ -1,8 +1,8 @@
-<h2>Diego David</h2>
+<h2>Diego Xavier</h2>
 
-Software Developer at [Even3](https://www.even3.com.br) · ADS student at CESAR School.
+Desenvolvedor de Software na [Even3](https://www.even3.com.br) · Estudante de ADS na CESAR School.
 
-Working with web applications in production — shipping features, tracking down bugs, and keeping things running.
+Trabalho com aplicações web em produção — entregando funcionalidades, resolvendo bugs e mantendo as coisas funcionando.
 
 ---
 
@@ -12,6 +12,14 @@ Working with web applications in production — shipping features, tracking down
 
 ---
 
-### Reach me
+### No momento
+
+Design patterns · Microsserviços · Redes · Cloud
+
+Pesquisador de iniciação científica na CESAR School — estudando os efeitos de ferramentas de IA nos hábitos cognitivos de desenvolvedores.
+
+---
+
+### Contato
 
 [linkedin.com/in/diego-david-600608199](https://www.linkedin.com/in/diego-david-600608199/) · [diego.ddvid@gmail.com](mailto:diego.ddvid@gmail.com)
