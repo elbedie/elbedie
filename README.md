@@ -1,6 +1,6 @@
 <h2>Diego Xavier</h2>
 
-Desenvolvedor de Software na [Even3](https://www.even3.com.br) · Estudante de ADS na CESAR School.
+Desenvolvedor de Software na [Even3](https://www.even3.com.br) · Estudante do último período de ADS na CESAR School.
 
 Trabalho com aplicações web em produção, entregando funcionalidades, resolvendo bugs e mantendo as coisas funcionando.
 
