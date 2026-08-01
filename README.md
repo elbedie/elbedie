@@ -2,7 +2,7 @@
 
 Desenvolvedor de Software na [Even3](https://www.even3.com.br) · Estudante de ADS na CESAR School.
 
-Trabalho com aplicações web em produção — entregando funcionalidades, resolvendo bugs e mantendo as coisas funcionando.
+Trabalho com aplicações web em produção, entregando funcionalidades, resolvendo bugs e mantendo as coisas funcionando.
 
 Acesse meu portfólio aqui: https://bedie-dev.vercel.app
 
@@ -18,7 +18,7 @@ Acesse meu portfólio aqui: https://bedie-dev.vercel.app
 
 Design patterns · Microsserviços · Redes · Cloud
 
-Pesquisador de iniciação científica na CESAR School — estudando os efeitos de ferramentas de IA nos hábitos cognitivos de desenvolvedores.
+Pesquisador de iniciação científica na CESAR School: estudando os efeitos de ferramentas de IA nos hábitos cognitivos de desenvolvedores.
 
 ---
 
