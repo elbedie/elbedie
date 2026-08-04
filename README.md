@@ -24,4 +24,4 @@ Pesquisador de iniciação científica na CESAR School: estudando os efeitos de 
 
 ### Contato
 
-[linkedin.com/in/diego-david-600608199](https://www.linkedin.com/in/diego-david-600608199/) · [diego.ddvid@gmail.com](mailto:diego.ddvid@gmail.com)
+[linkedin](https://www.linkedin.com/in/diego-xavier-600608199/?isSelfProfile=true) · [diego.ddvid@gmail.com](mailto:diego.ddvid@gmail.com)
