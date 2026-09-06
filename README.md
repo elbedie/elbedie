@@ -1,6 +1,6 @@
 <h2>diego xavier</h2>
 
-software engineer na [Even3](https://www.even3.com.br) e pesquisador de iniciação científica na CESAR School
+software developer na [Even3](https://www.even3.com.br) e pesquisador de iniciação científica na CESAR School
 
 ---
 
