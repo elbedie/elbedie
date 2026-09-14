@@ -5,8 +5,8 @@ software developer na [Even3](https://www.even3.com.br) e pesquisador de inicia√
 ---
 
 ### Stack
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,angular,react,nextjs,postgres,mysql,supabase,azure,git,github,vscode,visualstudio" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,angular,react,html,css,bootstrap,postgres,mysql,git,github,vscode,visualstudio" />
 
 ### Contato
 
